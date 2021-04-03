@@ -1,0 +1,56 @@
+{
+    "lastUpdated": "31/03/2021 07:27",
+    "testCentres": [
+        {
+            "additionalInfo": "Schools LFD kit collection only ",
+            "address": "Richmond Drive Coach Park",
+            "addressLine2": " Richmond Drive",
+            "assistedTesting": false,
+            "braile": false,
+            "bslSupport": false,
+            "driveThroughOnly": true,
+            "easyInstructions": false,
+            "enabled": true,
+            "hasEmergencyMedic": true,
+            "hasFreeParking": false,
+            "hasPaidParking": false,
+            "hasToilets": false,
+            "hearingLoops": false,
+            "hoursOfOperation": {
+                "fri": "02:30pm - 08:00pm",
+                "mon": "02:30pm - 08:00pm",
+                "sat": "02:30pm - 08:00pm",
+                "sun": "02:30pm - 08:00pm",
+                "thu": "02:30pm - 08:00pm",
+                "tue": "02:30pm - 08:00pm",
+                "wed": "02:30pm - 08:00pm"
+            },
+            "id": "RT_ENG_408",
+            "languageTranslation": false,
+            "lastUpdated": "29/Mar/2021:13:16:25 +0000",
+            "lateralFlowTestsAvailable": false,
+            "location": {
+                "lat": 53.1386,
+                "lng": 0.33321
+            },
+            "name": "Richmond Drive Coach Park",
+            "notes": "",
+            "onFootOnly": false,
+            "open": false,
+            "orgId": "AACV",
+            "pcrTestsAvailable": false,
+            "postCode": "PE253PQ",
+            "showTestKitAvailability": true,
+            "siteBookingUrl": "",
+            "siteType": "testkit-pickup",
+            "status": "green",
+            "testKitStatus": "available",
+            "town": "Skegness",
+            "vaccAstraZenacaOffered": false,
+            "vaccModernaOffered": false,
+            "vaccPFizerOffered": false,
+            "videoAssistance": false,
+            "wheelChairAccess": false
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "lastUpdated": "31/03/2021 07:27",
+    "testCentres": [
+        {
+            "additionalInfo": "",
+            "address": "test",
+            "addressLine2": "",
+            "assistedTesting": false,
+            "braile": false,
+            "bslSupport": false,
+            "driveThroughOnly": false,
+            "easyInstructions": false,
+            "enabled": false,
+            "hasEmergencyMedic": false,
+            "hasFreeParking": false,
+            "hasPaidParking": false,
+            "hasToilets": false,
+            "hearingLoops": false,
+            "hoursOfOperation": {
+                "fri": "Closed",
+                "mon": "Closed",
+                "sat": "Closed",
+                "sun": "Closed",
+                "thu": "Closed",
+                "tue": "Closed",
+                "wed": "Closed"
+            },
+            "id": "6eb46a85-2040-4c03-a2f9-e41ba2da914c",
+            "languageTranslation": false,
+            "lastUpdated": "12/Mar/2021:12:21:05 +0000",
+            "lateralFlowTestsAvailable": false,
+            "location": {
+                "lat": 55.502044942319294,
+                "lng": -5.3113359730468845
+            },
+            "name": "Test",
+            "notes": "",
+            "onFootOnly": false,
+            "open": false,
+            "orgId": "bcbf79db-cb11-49e6-b9ff-139518e5bbf9",
+            "pcrTestsAvailable": false,
+            "postCode": "KA27 8EG",
+            "showTestKitAvailability": true,
+            "siteBookingUrl": "",
+            "siteType": "testkit-pickup",
+            "status": "green",
+            "testKitStatus": "unknown",
+            "town": "test",
+            "vaccAstraZenacaOffered": false,
+            "vaccModernaOffered": false,
+            "vaccPFizerOffered": false,
+            "videoAssistance": false,
+            "wheelChairAccess": false
+        }
+    ]
+}
